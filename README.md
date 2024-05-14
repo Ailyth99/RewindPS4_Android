@@ -1,4 +1,6 @@
-# RewindPS4 for Android
+
+<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/app/src/main/res/drawable/title.png?raw=true" title="Discount Details"><img src="./app/src/main/res/drawable/title.png" alt="Details" width="40%"/></a><br>
+
 
 ## Introduction
 This Android app creates a proxy server that allows your PS4/PS5 to connect and download specific versions of PS4 games, which allows you to downgrade your games. Since games are often updated, some content may change over time. This tool enables you to play earlier versions of your games.
@@ -14,17 +16,20 @@ https://github.com/Ailyth99/RewindPS4
 ## How to use
 * The usage method is the same as the Windows version, so you can refer to this guide: [Complete Guide](https://foggy-bath-a54.notion.site/RewindPS4-Guide-ENGLISH-9ffe30e6e07a4077bc63b9c3511e458c?pvs=25)
 * Choose and input the json link corresponding to the version you want, or block the update server to download version 1.0.
-<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/03-min.png" alt="Loading" width="30%"/></a>
-<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/02-min.png" alt="Loading" width="30%"/></a>
+<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/03-min.png" title="Discount Details"><img src="./screenshots/03-min.png" alt="Details" width="35%"/></a>
+<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/02-min.png" title="Discount Details"><img src="./screenshots/02-min.png" alt="Details" width="35%"/></a>
+
 
 ## Screenshots
-Support menus in three languages: EN/JA/ZH
-<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/01-min.png" alt="Loading" width="30%"/></a>
-<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/00-min.png" alt="Loading" width="30%"/></a>
-<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/j01-min.png" alt="Loading" width="30%"/></a>
-<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/j03-min.png" alt="Loading" width="30%"/></a>
-<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/z01-min.png" alt="Loading" width="30%"/></a>
-<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/z03-min.png" alt="Loading" width="30%"/></a>
+* Support menus in three languages: EN/JA/ZH<br>
+<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/01-min.png" title="Discount Details"><img src="./screenshots/01-min.png" alt="Details" width="35%"/></a>
+<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/00-min.png" title="Discount Details"><img src="./screenshots/00-min.png" alt="Details" width="35%"/></a>
+<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/j01-min.png" title="Discount Details"><img src="./screenshots/j01-min.png" alt="Details" width="35%"/></a>
+<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/j03-min.png" title="Discount Details"><img src="./screenshots/j03-min.png" alt="Details" width="35%"/></a>
+<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/01-min.png" title="Discount Details"><img src="./screenshots/z01-min.png" alt="Details" width="35%"/></a>
+<a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/03-min.png" title="Discount Details"><img src="./screenshots/z03-min.png" alt="Details" width="35%"/></a>
+
+
 
 ## Libraries Used
 * [goproxy](https://github.com/elazarl/goproxy) for build basic proxy server functionality
