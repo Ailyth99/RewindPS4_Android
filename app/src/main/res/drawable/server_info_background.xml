@@ -1,0 +1,6 @@
+<!-- res/drawable/rounded_transparent_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#DF83706F"/>
+    <corners android:radius="18dp"/>
+</shape>

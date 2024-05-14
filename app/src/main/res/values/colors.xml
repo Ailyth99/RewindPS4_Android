@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#201F1F</color>
+    <color name="dark">#090707</color>
+    <color name="white">#9BDADA</color>
+    <color name="default_background_color">#131933</color>
+    <color name="trans">#B4232833</color>
+    <color name="tsukikazu">#F763EAEF</color>
+    <color name="benisuzume">#E41F10</color>
+    <color name="text_color_default">#9BD3D3</color>
+    <color name="text_color_custom">#FFFFFF</color>
+    <color name="btn_text_1">#121E1D</color>
+    <color name="btn_2">#FFFFFF</color>
+    <color name="dark_blue">#B4232833</color>
+    <color name="stripe">#798B98B8</color>
+    <color name="red_earth">#F4AFAF</color>
+    <color name="muzuku">#DCB6B6</color>
+    <color name="kunato">#E9232833</color>
+</resources>

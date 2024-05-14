@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">RewindPS4</string>
+    <string name="mode1_desc">Download Specified Version (works on PS4/PS5 console)</string>
+    <string name="mode2_desc">Block Patches, Download 1.0 Base Game (only works on PS4 console)</string>
+    <string name="mode1_gameinfo"> GameID\nName\nRegion\nLastVersion\nDowngrade</string>
+    <string name="button_start">START PROXY SERVER</string>
+    <string name="button_stop">STOP PROXY SERVER</string>
+    <string name="toast_server_running">Server is running, cannot change mode.</string>
+    <string name="info_version_locked">Version locked. Enable proxy network and connect your PS4/PS5 to download the specified version.</string>
+    <string name="info_update_blocked">Update server blocked. Enable proxy network and connect your PS4 to download original 1.0 version.</string>
+    <string name="toast_select_mode">Please select a mode first</string>
+    <string name="toast_invalid_json">Invalid JSON URL, please re-enter.</string>
+    <string name="mode1">Mode 1</string>
+    <string name="mode2">Mode 2</string>
+    <string name="unknown_mode">Unknown Mode</string>
+    <string name="proxy_running">PROXY SERVER RUNNING\n</string>
+    <string name="port">&#160;&#160;PORT :&#160;</string>
+    <string name="toast_connect_wifi">Please connect to WiFi or a local network</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="no_mode_selected">No mode selected</string>
+    <string name="input_patch_json">Input Patch JSON：</string>
+    <string name="port_in_use">Port 8080 is in use, enter a new port number[1024~65535]</string>
+    <string name="mode1_selected">Mode 1 selected</string>
+    <string name="mode2_selected">Mode 2 selected</string>
+    <string name="json_link">JSON Link</string>
+    <string name="ip_addr">IP Address:&#160;</string>
+    <string name="github_page" translatable="false">GitHub_Page</string>
+    <string name="guide">Guide</string>
+
+
+</resources>

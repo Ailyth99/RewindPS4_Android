@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:textColor="@color/white"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextJson"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minLines="2"
+        android:background="@drawable/little_gray_background"
+        android:hint="@string/json_link"/>
+</LinearLayout>
