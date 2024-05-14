@@ -16,6 +16,8 @@ https://github.com/Ailyth99/RewindPS4
 ## How to use
 * The usage method is the same as the Windows version, so you can refer to this guide: [Complete Guide](https://foggy-bath-a54.notion.site/RewindPS4-Guide-ENGLISH-9ffe30e6e07a4077bc63b9c3511e458c?pvs=25)
 * Choose and input the json link corresponding to the version you want, or block the update server to download version 1.0.<br>
+
+
 <a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/03-min.png" title="Discount Details"><img src="./screenshots/03-min.png" alt="Details" width="35%"/></a>
 <a href="https://github.com/Ailyth99/RewindPS4_Android/blob/main/screenshots/02-min.png" title="Discount Details"><img src="./screenshots/02-min.png" alt="Details" width="35%"/></a>
 
