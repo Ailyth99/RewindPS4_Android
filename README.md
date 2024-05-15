@@ -39,3 +39,4 @@ This Android app creates a proxy server that allows your PS4/PS5 to connect and 
 * IBM Plex Sans-JP regular
 * Rajdhani Medium
 * 東亜重工フォント
+* LXGW Neo XiHei / 霞鹜新晰黑

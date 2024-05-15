@@ -179,7 +179,7 @@
                     android:layout_width="0dp"
                     android:lineSpacingMultiplier="1.5"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+                    android:layout_weight="2"
                     android:text="@string/mode1_gameinfo"
                     android:textColor="@color/text_color_default"
                     android:textSize="16sp"/>
@@ -189,7 +189,7 @@
                     android:layout_width="0dp"
                     android:lineSpacingMultiplier="1.5"
                     android:layout_height="wrap_content"
-                    android:layout_weight="2"
+                    android:layout_weight="3"
                     android:text=""
                     android:textColor="@color/muzuku"
                     android:gravity="center_vertical"
